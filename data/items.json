@@ -1,0 +1,74 @@
+[
+  {
+    "id": "programming-ddl-1",
+    "title": "ICPC Asia Regional Registration",
+    "deadline": "2026-09-15T23:59:59",
+    "dateRange": "2026-09-15",
+    "location": "Asia",
+    "isOnline": true,
+    "tags": [
+      "ICPC",
+      "Algorithm"
+    ],
+    "url": "https://icpc.global",
+    "status": "upcoming",
+    "stage": "Registration",
+    "source": "Official-style seed",
+    "type": "contest",
+    "description": "区域赛报名 demo。"
+  },
+  {
+    "id": "programming-ddl-2",
+    "title": "Meta Hacker Cup 2026 Qualification",
+    "deadline": "2026-09-01T23:59:59",
+    "dateRange": "2026-09-01",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "Meta",
+      "Algorithm"
+    ],
+    "url": "https://www.facebook.com/codingcompetitions/hacker-cup",
+    "status": "upcoming",
+    "stage": "Qualification",
+    "source": "Demo seed",
+    "type": "contest",
+    "description": "算法竞赛资格赛 demo。"
+  },
+  {
+    "id": "programming-ddl-3",
+    "title": "Codeforces Global Round",
+    "deadline": "2026-06-20T22:35:00",
+    "dateRange": "2026-06-20",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "Codeforces",
+      "Rating"
+    ],
+    "url": "https://codeforces.com",
+    "status": "upcoming",
+    "stage": "Contest",
+    "source": "Official site",
+    "type": "contest",
+    "description": "Codeforces 轮次 demo。"
+  },
+  {
+    "id": "programming-ddl-4",
+    "title": "LeetCode Weekly Contest",
+    "deadline": "2026-12-31T23:59:59",
+    "dateRange": "2026-12-31",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "LeetCode",
+      "Weekly"
+    ],
+    "url": "https://leetcode.com/contest",
+    "status": "ongoing",
+    "stage": "Recurring",
+    "source": "Official site",
+    "type": "contest",
+    "description": "重复赛事 demo。"
+  }
+]
