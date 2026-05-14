@@ -1,23 +1,37 @@
 [
   {
-    "id": "allconfs",
-    "name": "AllConfs",
-    "url": "https://www.allconfs.org/",
-    "priority": "aggregator",
+    "id": "icpc",
+    "name": "ICPC",
+    "url": "https://icpc.global",
+    "priority": "official",
     "parser": "generic-link-date"
   },
   {
-    "id": "sinoconf",
-    "name": "SinoConf",
-    "url": "https://sinoconf.napstic.cn/index",
-    "priority": "aggregator-cn",
+    "id": "codeforces",
+    "name": "Codeforces",
+    "url": "https://codeforces.com",
+    "priority": "official",
     "parser": "generic-link-date"
   },
   {
-    "id": "competehub",
-    "name": "CompeteHub",
-    "url": "https://www.competehub.dev/zh",
-    "priority": "competition-aggregator",
+    "id": "atcoder",
+    "name": "AtCoder",
+    "url": "https://atcoder.jp",
+    "priority": "official",
+    "parser": "generic-link-date"
+  },
+  {
+    "id": "leetcode",
+    "name": "LeetCode Contest",
+    "url": "https://leetcode.com/contest",
+    "priority": "official",
+    "parser": "generic-link-date"
+  },
+  {
+    "id": "lanqiao",
+    "name": "Lanqiao Cup",
+    "url": "https://dasai.lanqiao.cn",
+    "priority": "official-cn",
     "parser": "generic-link-date"
   }
 ]
